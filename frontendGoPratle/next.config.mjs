@@ -1,7 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  /* config options here */
-  reactCompiler: true,
-};
+  // Remove or comment out React Compiler config:
+  // experimental: {
+  //   reactCompiler: true,
+  // },
+  // Other config...
+}
 
-export default nextConfig;
+export default nextConfig
