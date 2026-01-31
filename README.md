@@ -1,0 +1,1 @@
+Live - https://go-pratle-event-manger.vercel.app/
